@@ -1,5 +1,23 @@
 @charset "UTF-8"
 /*regra @CHARSET caso haja problemas de acentuação*//*COMENTÁRIO*/
+body{
+    
 
+
+}
+header {
+    background-color: rgb(39, 38, 38);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+section{
+    
+    width:350px ;
+    float: left;    
+    padding: 10px;
+
+}
 
 
