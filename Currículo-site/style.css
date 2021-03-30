@@ -13,11 +13,29 @@ header {
 }
 
 section{
-    
-    width:350px ;
-    float: left;    
+    background-color: rgb(39, 38, 38);
+    color: white;    
+    width:450px ;
+    float:right ;    
     padding: 10px;
 
+}
+
+aside{
+    background-color: rgb(173, 175, 25);
+    color: white;
+    width:350px ;
+    float: left ;    
+    padding: 10px;
+
+
+
+}
+footer{
+
+    background-color: rgb(39, 38, 38);
+    color: white;
+    clear: both;
 }
 
 
